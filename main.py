@@ -1,2 +1,1 @@
 print('Git')
-print('New')
